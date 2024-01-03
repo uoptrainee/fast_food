@@ -39,7 +39,7 @@ class Iphone1415ProEightScreen extends StatelessWidget {
                               width: 320.h,
                               margin: EdgeInsets.only(left: 18.h, right: 10.h),
                               child: Text(
-                                  "\"Let food be thy medicine and medicine be thy food.\"",
+                                  "\"Let food be the medicine and medicine be the food.\"",
                                   maxLines: 4,
                                   overflow: TextOverflow.ellipsis,
                                   textAlign: TextAlign.center,
